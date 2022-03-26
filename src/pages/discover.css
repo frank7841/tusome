@@ -1,0 +1,149 @@
+.green{
+    color: #00FF00;
+}
+
+.article {
+    height: 320px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    /* place-items: center; */
+    border-radius: 15px;
+}
+.article1 {
+    height:90vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: grid;
+    /* place-items: center; */
+    border-radius: 15px;
+}
+
+.header-d {
+    font-size: xx-large;
+    color: rgb(15, 15, 15);
+    margin-top: 52%;
+    font-weight: bold;
+    text-align: left!important;
+    margin-left: 0.5em;
+}
+.options{
+    background-color: #b6b2b2!important;
+    border-radius: 15px!important;
+    color: black!important;
+    font-weight: bold!important;
+    text-align: center!important;
+    width: 50%!important;
+    margin:auto ;
+    
+}
+.pading-form{
+    padding-bottom: 1.0em;
+}
+.section-form{
+    align-items: center!important;
+}
+
+.bg{
+    background-color: #E5E5E5;
+    min-height: 100vh;
+    overflow-x: hidden;
+    display: flex;
+    z-index: 100;
+}
+#side-pad{
+    padding-right: 2em!important;
+}
+.card-prop{
+    padding: 1.5em;
+    border-radius: 15px!important;
+}
+.card-prop-d{
+    padding: 0.5em;
+    border-radius: 15px!important;
+}
+
+.tut{
+    text-align: center;
+}
+#dif{
+    margin-left: 2rem;
+}
+.heading{
+    font-weight: 900;
+    padding-top: 1.5em;
+    margin-left: 2em;
+}
+#search-tutor{
+    background-color: purple!important;
+    color: black;
+    height: auto!important;
+    margin: auto;
+    border-radius: 15px!important;
+
+}
+.disc-tutor{
+    padding-top: 1em;
+}
+.disc-header{
+    font-weight: bold;
+}
+.profile-image{
+    height: 50px;
+    max-width: 50px!important;
+    border-radius: 50%;
+    flex: 2;
+}
+
+.profile{
+    display: flex!important;
+    flex-direction: row!important;
+    background-color: #b6b2b2!important;
+    margin-bottom: 1.5em;
+}
+.b-profile{
+    background-color: #b6b2b2!important;
+}
+.description{
+    margin-left: 20px;
+}.s-header{
+    font-weight: bolder;
+}
+.r-icon{
+    padding-left: 1em;
+}
+.box-desc{
+    display: flex;
+}
+.years{
+    display: flex;
+    border: 1px solid black;
+    margin: 1em 0  0 1em;
+    padding: 0.1em;
+    border-radius: 5px;
+}
+.number{
+    font-weight: bold;
+
+}
+.years h3{
+    margin-left: 1em;
+}
+.yellow{
+    background-color: #FFA500;
+}
+.green-n{
+    background-color: #00FF00;
+    color: #E5E5E5;
+}
+#s-button{
+    background-color: purple!important;
+    color: rgb(248, 246, 246);
+    width: 40%;
+    border-radius: 15px!important;
+    margin-left: 30%;
+    margin-top: 1em;
+    height: auto!important;
+}

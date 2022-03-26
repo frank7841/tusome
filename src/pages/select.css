@@ -1,0 +1,25 @@
+.timer{
+    text-align: center;
+    place-content: center;
+}
+.img-timer{
+    height: 300px;
+}
+.c-green{
+    color: #00FF00;
+}
+.c-orange{
+    color: orange;
+}
+.confirm{
+    width: 70%;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 17%;
+    margin-top: 3em ;
+}
+.b-footer{
+    font-size: larger;
+    position: absolute;
+    bottom: 1.5em;
+}

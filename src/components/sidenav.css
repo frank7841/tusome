@@ -1,0 +1,28 @@
+.side-background{
+    background-color: #E5E5E5!important;
+    color: rgb(10, 9, 9)!important;
+    position: fixed!important;
+    z-index: 100!important;
+}
+#text{
+    color: rgb(8, 8, 8)!important;
+}
+.brand{
+    padding: 2em;
+    color: #A056FF;
+}
+.brand a{
+    text-decoration: none;
+
+}
+strong{
+    color: grey;
+}
+.vertical {
+    border-left: 1px solid black;
+    height: 100vh;
+    position:absolute;
+    left: 100%;
+    
+   
+}
