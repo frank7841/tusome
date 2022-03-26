@@ -23,7 +23,7 @@ const Search = () => {
 
                         <strong className="header">what do you want to learn today?</strong>
                     </article>
-                    <section >
+                    <section className="tut" >
                         <h3 className="heading">Looking a tutor for :</h3>
                         <Form className="section-form">
                             <FormGroup className="pading-form">
