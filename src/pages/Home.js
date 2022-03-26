@@ -12,7 +12,7 @@ const Home=()=> {
 <>
     <Helmet>
       <script src="js/app.js"></script>
-    <script src="js/common.js"></script>
+     <script src="js/common.js"></script>
     </Helmet>
     
       <div className="page">
